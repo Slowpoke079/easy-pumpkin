@@ -1,2 +1,4 @@
 # easy-pumpkin
-Install WiFi-Pumpkin with a single bash script. [Kali]
+Install WiFi-Pumpkin with a single bash script.
+
+Build with Kali in mind.
