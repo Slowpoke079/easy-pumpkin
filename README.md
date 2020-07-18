@@ -1,3 +1,7 @@
+# Deprecated:
+P0cL4bs, the creator of wifi-pumpkin announced the following:
+This repository is ⛔️ DEPRECATED, wifipumpkin3 is Released, checkout!
+
 # easy-pumpkin
 Install WiFi-Pumpkin with a single bash script.
 
